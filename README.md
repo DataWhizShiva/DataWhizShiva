@@ -22,7 +22,6 @@ I'm a results-driven Data Analyst with over 2 years of professional experience a
 - Create **interactive dashboards** with **Power BI & Tableau** 📈
 
 ---
-## 🧠 Skills & Technologies
 
 ## 🛠 Technical Skills
 
