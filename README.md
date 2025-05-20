@@ -1,7 +1,7 @@
 DataWhizPradyumna
 ---
 
-# 👋 Hi, I'm Shiva Sai Pradyumna E
+# 👋 Hi, I'm Pradyumna E
 
 🎓 Data Analyst | 📊 ML Enthusiast | 🚀 Data Pipeline Engineer | 🌐 Cloud & Big Data  Developer  
 📍 Based in McKinney, TX | 💼 Open to full-time roles | 📫 shivasaie1315@gmail.com
