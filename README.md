@@ -1,4 +1,4 @@
-DataWhizShiva
+DataWhizPradyumna
 ---
 
 # 👋 Hi, I'm Shiva Sai Pradyumna E
@@ -20,24 +20,6 @@ I'm a results-driven Data Analyst with over 2 years of professional experience a
 - Automate **data workflows** using **Spark, SQL, and Python** ⚡                                          
 
 - Create **interactive dashboards** with **Power BI & Tableau** 📈
-
----
-
-## 💼 Experience Highlights
-
-### 👨‍💻 Data Analyst – Tata Consultancy Services (2021–2023)
-- Developed real-time ADAS data pipelines on Azure Databricks
-- Reduced data pipeline failures by 95% through Python-based root cause frameworks
-- Built and delivered insights via Tableau and Power BI dashboards
-
-### 👨‍🔬 Intern Data Analyst – National Instruments & Cognibot (2020–2021)
-- Engineered data pipelines using PySpark and Hadoop
-- Boosted ML model accuracy by 20% using Python, R, and SQL
-- Visualized manufacturing KPIs with Tableau for stakeholder reports
-
-### 👨‍🏫 Teaching Assistant – University of North Texas (2024)
-- Led weekly labs on Python, R, SQL, and Excel for data analytics students
-- Improved student project performance by 15% using applied data techniques
 
 ---
 
@@ -63,12 +45,6 @@ Used Tableau + OpenRefine to clean, analyze, and visualize complex datasets with
 🚀 **[Power BI Dashboard for Employee Performance](#)** – Data visualization insights for HR analytics.  
 
 ⚡ **[Big Data Processing with Spark](#)** – Optimized data pipelines for multi-million row datasets.  
-
----
-## 📚 Education
-
-**MS in Advanced Data Analytics** – University of North Texas (Aug 2023 – May 2025)  
-**B.Tech in Electronics & Communication Engineering** – Vardhaman College of Engineering (July 2021)
 
 ---
 
